@@ -1,0 +1,29 @@
+html, body {
+    background: #5C258D;
+    background: -webkit-linear-gradient(to right, #4389A2, #5C258D);
+    background: linear-gradient(to right, #4389A2, #5C258D);
+    height: 100%;
+    min-width: 500px;
+  }
+  
+  h1 {
+    color: white;
+    text-shadow: 2px 2px 2px black;
+    font-size: 60px;
+  }
+  
+  h2 {
+    color: #438c88;
+    text-shadow: 2px 2px 2px black;
+    margin-top: 140px;
+    font-size: 60px;
+  }
+  
+  #price {
+    color: #dca686;
+    font-size: 70px;
+    text-shadow: 2px 2px 2px black;
+    margin-top: 100px;
+  }
+    
+      
